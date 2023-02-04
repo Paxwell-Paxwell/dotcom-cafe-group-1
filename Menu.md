@@ -1,11 +1,13 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+Item                      | Price
+------------------------ | ------
+Eggs Benedict            | 12.00 THB
+Avocado Toast            | 10.00 THB
+Pancakes with Syrup      | 8.50 THB
+Bacon and Eggs          | 9.00 THB
 
 ## Lunch 
 

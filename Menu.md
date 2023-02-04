@@ -14,7 +14,12 @@
 
 
 ## Night Food
-
+|Item                      | Price    |
+|:-------------------------|----------|
+|Pizza                     | 299.00 THB |
+|Ramen                     | 199.00 THB |
+|Sandwiches                | 99.00 THB  |
+|Fried chicken             | 199.00 THB |
 
 ## Beverages
 
